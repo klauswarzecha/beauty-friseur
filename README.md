@@ -30,7 +30,7 @@ yielded and exported.
 
 ## Remarks
 
-This project is proof of principle. Both crawlers are fully functional. However, 
+This project is a proof of principle. Both crawlers are fully functional. However, 
 there's neither a proxy middleware, nor any database connection.
 
 Enjoy and keep in mind that less requests aren't necessarily a bad thing ;-)
