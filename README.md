@@ -21,6 +21,13 @@ All business data including cosmetic services were collected from overview
 pages with roughly ten company entries. For each of these entries, an item was 
 yielded and exported.
 
+
+## How to run
+
+  - Deploy a Scrapy container 
+  - Deploy the project via scrapyd-deploy
+  - Start a crawler using curl 
+
 ## Remarks
 
 This project is proof of principle. Both crawlers are fully functional. However, 
