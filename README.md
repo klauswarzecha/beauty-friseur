@@ -19,9 +19,13 @@ In this project, however, it was crucial to avoid deep crawling!
 The individual pages of companies on these portals were **never** accessed!
 
 All business data including cosmetic services were collected from overview
- pages. In thew case of one portal, each request furnished roughly ten
+ pages.
+
+In the case of one portal, each request furnished roughly ten
  company entries. In the case of another portal, the overview pages for larger
- cities contained much more entries. For each of these entries, an
+ cities contained much more entries.
+
+For each of these entries, an
  [item](https://docs.scrapy.org/en/latest/topics/items.html) was
  yielded and exported.
 
