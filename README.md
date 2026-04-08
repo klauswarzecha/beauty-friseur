@@ -5,8 +5,8 @@
 The current project was created to demonstrate how business data
  can be collected from web portals in an unobtrusive way.
 
-For this purpose two German beauty portals are scraped
- with a minimum of requests.
+For this purpose ~~two German beauty portals are~~ one German beauty portal is scraped
+ with a minimum of requests. The other portal initially included in this repo is no longer online.
 
 ## Implementation
 
